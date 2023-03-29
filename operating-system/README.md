@@ -17,6 +17,6 @@ CPU 스케줄러 <br>
 분산 및 다중(병렬 처리 시스템) <br>
 
 
-김진권
-1주차: https://brannynew.notion.site/3-14-OS-0906836eac744d45a57fa35f88c4a322
+# 김진권 <br>
+1주차: https://brannynew.notion.site/3-14-OS-0906836eac744d45a57fa35f88c4a322 <br>
 2주차: https://www.notion.so/brannynew/3-21-28288025e84a429c8bdf89d112884019?pvs=4
