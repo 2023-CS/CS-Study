@@ -1,0 +1,6 @@
+- HTTP 메서드
+- 네트워크 기초 & 토폴로지
+- TCP, TCP 3-way handshake
+- UDP, UDP 프로토콜 과정
+- OSI 7계층
+- 캡슐화/비캡슐화
